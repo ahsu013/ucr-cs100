@@ -1,4 +1,4 @@
-75 / 100
+90 / 100
 no submit
-regraded-checksyscall -5 part1 20 part2 30 part3 30
-
+regraded-checksyscall -5 part1 15 part2 30 part3 30
+regraded-part1 +15 after fixing 
